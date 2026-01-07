@@ -465,6 +465,7 @@ h1, h2, h3, h4, p, #divPlay {
 }
 
 .laurel {
+    display: none;
     margin-bottom: 5dvh;
 }
 
@@ -696,4 +697,5 @@ header, .contenedor_reloj, #contenedor_fecha, #contenedor_parientes, .contenedor
     .marginalia__imagen {
         rotate: 90deg;
     }
+
 }
