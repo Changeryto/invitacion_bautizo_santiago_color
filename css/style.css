@@ -670,7 +670,7 @@ header, .contenedor_reloj, #contenedor_fecha, #contenedor_parientes, .contenedor
 }
 
 .marginalia{
-    z-index: 100;
+    z-index: -100;
     position: sticky;
     display: flex;
     top: 0;
@@ -699,4 +699,5 @@ header, .contenedor_reloj, #contenedor_fecha, #contenedor_parientes, .contenedor
     }
 
 }
+
 
