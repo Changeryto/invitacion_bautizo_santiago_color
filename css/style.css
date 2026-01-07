@@ -356,7 +356,7 @@ h1, h2, h3, h4, p, #divPlay {
     margin-bottom: 2rem;
     border: none;
     border-radius: 1rem;
-
+    z-index: 600;
 }
 
 .boton:hover {
@@ -699,3 +699,4 @@ header, .contenedor_reloj, #contenedor_fecha, #contenedor_parientes, .contenedor
     }
 
 }
+
