@@ -653,7 +653,7 @@ header, footer, .contenedor_reloj, #contenedor_fecha, #contenedor_parientes, .co
 header, .contenedor_reloj, #contenedor_fecha, #contenedor_parientes, .contenedor_nombramiento, .contenedor_lugar, .contenedor_regalos, .contenedor_confirmacion {
     height: 100dvh;
     justify-content: center;
-    margin: 50dvh 0 50dvh 0;
+    margin: 25dvh 0 25dvh 0;
 }
 
 .contenedor_confirmacion {
